@@ -1,2 +1,28 @@
-# 6f9fc767-event-planning-production-in
-The fastest way to have a complete productivity system running today. No setup fees. No learning curve.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Event Planning &amp; Production Inventory And Asset Management — ful
+# Event Planning & Production Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28r8v51g0f446fycZF3S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28r8v51g0f446fycZF3S)
+
